@@ -58,7 +58,7 @@ int main(int argc, char *argv[])
     std::cout << "OK\n";
 
 	// Dump database
-    std::string outFile = "ucl.sql";
+    std::string outFile = dbName + ".sql";
     std::cout << "Dumping data " << outFile << "... ";
     ret = sqlite.Dump(outFile);
     if (ret)
