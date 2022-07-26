@@ -1,0 +1,4 @@
+E:/helpsystems/vs/CMakeFiles/SQLite3Cpp.dir
+E:/helpsystems/vs/CMakeFiles/Backup.dir
+E:/helpsystems/vs/CMakeFiles/ALL_BUILD.dir
+E:/helpsystems/vs/CMakeFiles/ZERO_CHECK.dir
