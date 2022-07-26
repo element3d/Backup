@@ -1,5 +1,7 @@
 # Backup
 #### A simple c++ application to generate a dummy sqlite3 database, dump and send dumped file to the ftp server.
+#### The project uses cmdparser library for argument parsing and sqlite3 library for manipulating sql database which are placed under the libs directory.
+#### For further improvements the project is separated to modules. Currently the only module SQLite3Cpp is placed under the modules directory and is a simple OOP wrapper aroudn sqlite3 c api.
 
 ### Build
 #### The application supports only Windows platform. Cmake generated Visual Studio solution is placed under the vs directory.
